@@ -1,0 +1,5 @@
+{
+    "base_url": "https://www.etsy.com",
+    "max_items": 1000,
+    "output_directory": "data/"
+}
